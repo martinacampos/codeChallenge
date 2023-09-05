@@ -1,7 +1,4 @@
 document.addEventListener("DOMContentLoaded", () => {
-    const nombre = document.querySelector("#nombre");
-    const apellido = document.querySelector("#apellido");
-    const fechaNacimiento = document.querySelector("#fecha");
 
     const formulario = document.querySelector('#formulario')
     
